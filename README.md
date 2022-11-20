@@ -1,5 +1,5 @@
 Beauty Product shooping app design developed using flutter.
-
+Design Inspired by https://dribbble.com/shots/15487383-Beauty-Product-Shop-App
 
 
 ![1](https://user-images.githubusercontent.com/34004883/202892322-5cc4f030-0516-4350-91cb-81994b9ba26a.png)
